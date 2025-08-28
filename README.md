@@ -65,4 +65,4 @@ This project explores **8,500+ sales records** from Blinkit to answer key busine
 ## 📌 How to Use
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/blinkit-sales-analysis.git
+   https://github.com/zeninkloudz/blinkit-sales-analysis/tree/main
