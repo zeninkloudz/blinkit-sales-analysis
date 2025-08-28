@@ -56,13 +56,11 @@ This project explores **8,500+ sales records** from Blinkit to answer key busine
 ✔ Improves **customer satisfaction monitoring**  
 
 ---
-##✨ What I Learned
+## ✨ What I Learned
 
-Data cleaning & EDA for business datasets
-
-KPI definition and visualization storytelling in Power BI
-
-Turning raw data into actionable business insights
+- Data cleaning & EDA for business datasets
+- KPI definition and visualization storytelling in Power BI
+- Turning raw data into actionable business insights
 
 ## 📌 How to Use
 1. Clone the repo  
